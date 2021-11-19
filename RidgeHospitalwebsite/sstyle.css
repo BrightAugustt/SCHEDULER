@@ -103,7 +103,8 @@ body{
 /**services**/
 .jumbotron{
 	border-radius: 0;
-	padding: 3 rem 0 2rem;
+	padding: 3rem 0 2rem;
+	margin-bottom: 0;
 }
 
 h6.heading{
@@ -129,7 +130,7 @@ h6.heading{
 	padding: 0;
 
 }
-.services img::hover{
+.services img:hover{
 	transform: scale(1.1);
 	cursor: zoom-in;
 }
