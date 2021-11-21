@@ -138,12 +138,20 @@ h6.heading{
 	overflow: hidden;
 }
 
+/*working 24/7*/
+
+
 /**contact*/
 #contact{
 	background:#efefef ;
 	padding-top: 40px;
 	padding-bottom: 40px;
 	color: #777;
+
+	font-size: 1.9rem;
+	font-weight: 700;
+	text-transform: uppercase;
+	/*padding-bottom: 1.9rem;*/
 }
 #contact h3{
 	text-align: center;
