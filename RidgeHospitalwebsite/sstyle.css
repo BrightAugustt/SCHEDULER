@@ -139,7 +139,10 @@ h6.heading{
 }
 
 /*working 24/7*/
-
+.container-fluid{
+	font-size: 1.9rem;
+	background: lightgrey;
+}
 
 /**contact*/
 #contact{
@@ -149,7 +152,7 @@ h6.heading{
 	color: #777;
 
 	font-size: 1.9rem;
-	font-weight: 700;
+	font-weight: 500;
 	text-transform: uppercase;
 	/*padding-bottom: 1.9rem;*/
 }
